@@ -1,8 +1,8 @@
 
-* Java 知识
+* **Java 知识**
 
 
-* 友链
+* **友链**
 
   * [JavaGuide 的 Java 学习路线](https://snailclimb.gitee.io/javaguide/#/)
   * [JavaGuide 面试突击版](https://snailclimb.gitee.io/javaguide-interview/#/)
