@@ -10,6 +10,8 @@
   * [labuladong 算法](https://github.com/labuladong/fucking-algorithm)
   * [江南一点雨](http://itboyhub.com/)
   * [力扣](https://leetcode-cn.com/problemset/all/)
+  * [美团技术](https://tech.meituan.com/)
+  * [360 核心安全技术博客](https://blogs.360.cn/)
   * [Threejs中文网](http://www.webgl3d.cn/)
   * [玩安卓](https://www.wanandroid.com/index)
   * [网道-开发文档](https://wangdoc.com/)
