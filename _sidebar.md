@@ -26,3 +26,7 @@
   - [mall 学习](http://www.macrozheng.com/#/)
   - [EL-ADMIN 学习](https://el-admin.vip/)
   - [Snowy 学习](https://gitee.com/xiaonuobase/snowy)
+
+- **工具**
+
+  - [Sa-Token](http://sa-token.dev33.cn/doc/index.html#/)
