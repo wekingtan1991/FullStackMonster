@@ -34,3 +34,9 @@
 
   - [网道-开发文档](https://wangdoc.com/)
   - [Docker 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
+
+- **视频**
+
+  - [韩顺平 零基础 30 天学会 Java](https://www.bilibili.com/video/BV1fh411y7R8)
+  - [极客时间](https://time.geekbang.org/)
+  - [拉钩教育](https://kaiwu.lagou.com/)
