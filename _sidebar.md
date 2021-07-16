@@ -40,3 +40,8 @@
   - [韩顺平 零基础 30 天学会 Java](https://www.bilibili.com/video/BV1fh411y7R8)
   - [极客时间](https://time.geekbang.org/)
   - [拉钩教育](https://kaiwu.lagou.com/)
+
+- **方法**
+
+  - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+  - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
