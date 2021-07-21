@@ -9,7 +9,11 @@
   - [CS-Notes](https://www.cyc2018.xyz/)
   - [labuladong 算法](https://github.com/labuladong/fucking-algorithm)
   - [江南一点雨](http://itboyhub.com/)
+  - [doocs advanced-java](https://doocs.gitee.io/advanced-java/#/README)
+  - [doocs leetcode](https://doocs.gitee.io/leetcode/#/)
+  - [doocs source-code-hunter](https://doocs.gitee.io/source-code-hunter/#/)
   - [力扣](https://leetcode-cn.com/problemset/all/)
+  - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation?utm_source=gold_browser_extension)
   - [美团技术](https://tech.meituan.com/)
   - [有赞技术团队](https://tech.youzan.com/)
   - [京东科技技术说](https://blog.csdn.net/JDDTechTalk)
@@ -26,6 +30,7 @@
   - [mall 学习](http://www.macrozheng.com/#/)
   - [EL-ADMIN 学习](https://el-admin.vip/)
   - [Snowy 学习](https://gitee.com/xiaonuobase/snowy)
+  - [停车场管理\_物联网](https://github.com/981011512/--?utm_source=gold_browser_extension)
 
 - **工具**
 
