@@ -1,6 +1,7 @@
 - **Java 知识**
 
   - [笔记](./docs/笔记.md)
+  - [思维导图](https://mubu.com/app)
 
 - **友链**
 
