@@ -51,6 +51,7 @@
   - [极客时间](https://time.geekbang.org/)
   - [拉钩教育](https://kaiwu.lagou.com/)
   - [尚硅谷](http://www.atguigu.com/)
+  - [奈学教育](https://e.naixuejiaoyu.com/bought)
 
 - **方法**
 
