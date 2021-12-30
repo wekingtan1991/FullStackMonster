@@ -27,6 +27,9 @@
   - [玩安卓](https://www.wanandroid.com/index)
   - [牛客网](https://www.nowcoder.com/)
   - [阿里云开发者社区](https://developer.aliyun.com/learning?spm=a2c6h.21254954.0.0.2cb85907MAriOi)
+  - [vue 3](https://v3.cn.vuejs.org/)
+  - [vue-element-admin](https://panjiachen.github.io/vue-element-admin-site/zh/)
+  - [Element Plus](https://element-plus.gitee.io/zh-CN/)
 
 - **项目**
 
