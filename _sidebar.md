@@ -6,7 +6,7 @@
 
 - **友链**
 
-  - [JavaGuide 的 Java 学习路线](https://snailclimb.gitee.io/javaguide/#/)
+  - [JavaGuide 的 Java 学习路线](https://javaguide.cn/)
   - [JavaGuide 面试突击版](https://snailclimb.gitee.io/javaguide-interview/#/)
   - [CS-Notes](https://www.cyc2018.xyz/)
   - [labuladong 算法](https://github.com/labuladong/fucking-algorithm)
