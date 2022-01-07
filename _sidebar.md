@@ -37,6 +37,7 @@
   - [EL-ADMIN 学习](https://el-admin.vip/)
   - [Snowy 学习](https://gitee.com/xiaonuobase/snowy)
   - [停车场管理\_物联网](https://github.com/981011512/--?utm_source=gold_browser_extension)
+  - [ZLMediaKit 流媒体服务框架](https://github.com/ZLMediaKit/ZLMediaKit) 
 
 - **工具**
 
