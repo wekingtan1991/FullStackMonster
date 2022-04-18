@@ -11,6 +11,7 @@
   - [CS-Notes](https://www.cyc2018.xyz/)
   - [labuladong 算法](https://github.com/labuladong/fucking-algorithm)
   - [江南一点雨](http://itboyhub.com/)
+  - [小林 x 图解计算机基础](https://xiaolincoding.com/)
   - [doocs advanced-java](https://doocs.gitee.io/advanced-java/#/README)
   - [doocs leetcode](https://doocs.gitee.io/leetcode/#/)
   - [doocs source-code-hunter](https://doocs.gitee.io/source-code-hunter/#/)
